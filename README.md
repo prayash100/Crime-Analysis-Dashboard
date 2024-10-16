@@ -42,7 +42,7 @@ The dataset consists of around 1 million crime records, including information su
      - A high-level overview of crime trends.
      - The ability to drill down into specific crime types, locations, and time periods.
  
-## **Conclusion:**
+## **Conclusion**
 
 This project showcases how crime data can be effectively analyzed and visualized to gain actionable insights. The Tableau dashboard provides a user-friendly way to explore crime trends, which can be useful for law enforcement agencies, policymakers, and researchers.
 
