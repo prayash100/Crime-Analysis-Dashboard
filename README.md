@@ -15,6 +15,7 @@ The dataset consists of around 1 million crime records, including information su
 - Location details
 - Weapon used
 - Victim and suspect demographics
+  
 Dataset link : https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 (As the dataset is too large i provided the link)
 ## Technologies Used
